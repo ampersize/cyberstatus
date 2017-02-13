@@ -1,4 +1,15 @@
 body {
-    font-family: 'Cyber';
-    background: #FFD300;
+    	font-family: 'Cyber';
+    	background: #FFD300;
+}
+a {
+	    font-family: 'Cyber';
+	    font-style: normal;
+	    color: black;
+	    text-decoration: none;
+}
+a:hover {
+	    font-style: normal;
+	    color: black;
+	    text-decoration: underline;
 }
