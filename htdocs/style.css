@@ -1,15 +1,20 @@
 body {
     	font-family: 'Cyber';
     	background: #FFD300;
+    	font-size: .8em
 }
 a {
 	    font-family: 'Cyber';
 	    font-style: normal;
 	    color: black;
 	    text-decoration: none;
+	    font-size: 1.2em
 }
 a:hover {
 	    font-style: normal;
 	    color: black;
 	    text-decoration: underline;
+}
+h2 {
+		margin-bottom: 8px;
 }
