@@ -1,7 +1,8 @@
 body {
     	font-family: 'Cyber';
     	background: #FFD300;
-    	font-size: .8em
+    	font-size: .8em;
+	padding-bottom: 4em;
 }
 a {
 	    font-family: 'Cyber';
