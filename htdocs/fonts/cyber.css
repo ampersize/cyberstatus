@@ -1,5 +1,10 @@
 @font-face {
     font-family: 'Cyber';
-    src: url('ocr-0.2/OCRA.ttf');
+    src: url('ocr-0.2-webfont/ocra.eot');
+    src: url('ocr-0.2-webfont/ocra.eot?#iefix') format('embedded-opentype'),
+         url('ocr-0.2-webfont/ocra.woff2') format('woff2'),
+         url('ocr-0.2-webfont/ocra.woff') format('woff'),
+         url('ocr-0.2-webfont/ocra.ttf') format('truetype'),
+         url('ocr-0.2-webfont/ocra.svg#ocraregular') format('svg');
     font-weight: bold;
 }
